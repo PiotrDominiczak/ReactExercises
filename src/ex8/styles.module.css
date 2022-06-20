@@ -1,0 +1,18 @@
+.Container {
+    width: 300px;
+    height: 300px;
+    margin: 0 auto
+}
+
+.BorderRed {
+    border: 1px solid red
+}
+.BorderGreen {
+    border: 1px solid green
+}
+.BackgroundYellow {
+    background-color: yellow;
+}
+.BackgroundBrown {
+    background-color: brown;
+}
